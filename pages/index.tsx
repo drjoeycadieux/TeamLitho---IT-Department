@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>TeamLitho | IT Department</title>
+        <title>TeamLitho | Not Available</title>
         <meta name="description" content="TeamLitho | Developers - Advanced Platform For Developers" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
